@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "image": "https://cdn11.bigcommerce.com/s-q8jsr/images/stencil/2000x2000/products/1217/7845/G933S_1__02489.1550988813.jpg?c=2",
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "image": "https://www.bhphotovideo.com/images/images2500x2500/apple_mj362ll_a_apple_watch_38mm_smartwatch_1293065.jpg",
+      "description": "Stay connected on the go with this stylish smart watch."
+    },
+    {
+      "id": 3,
+      "name": "Laptop Sleeve",
+      "category": "Accessories",
+      "price": 29.99,
+      "image": "https://i.etsystatic.com/25706183/r/il/730da1/2795256100/il_1588xN.2795256100_l47y.jpg",
+      "description": "Protective laptop sleeve with a soft, durable exterior."
+    },
+    {
+      "id": 4,
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "price": 49.99,
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2021/04/6333841cv13d-1619816927.jpeg",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting."
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 79.99,
+      "image": "https://static3.srcdn.com/wordpress/wp-content/uploads/2020/10/81g26BxrTAL.-AC-SL1500-.jpg",
+      "description": "Portable Bluetooth speaker with deep bass and long battery life."
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 129.99,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.aKITB2etyHN49QQWfkQCXQHaEK&pid=Api&P=0&h=180",
+      "description": "Lightweight running shoes designed for comfort and performance."
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 49.99,
+      "image": "https://i5.walmartimages.com/asr/20f3090b-fac2-49f7-a202-7ec84ee6e2af.48c2f60cab16523787f9a0a5c68fa185.jpeg",
+      "description": "Stylish sunglasses with UV protection."
+    },
+    {
+      "id": 8,
+      "name": "Electric Kettle",
+      "category": "Home Appliances",
+      "price": 39.99,
+      "image": "https://ii1.pepperfry.com/media/catalog/product/p/r/1100x1210/prestige-1-5-litres-electric-kettle--model_pkoss--prestige-1-5-litres-electric-kettle--model_pkoss--k4bql8.jpg",
+      "description": "Fast-boiling electric kettle with auto shut-off feature."
+    },
+    {
+      "id": 9,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 24.99,
+      "image": "https://media1.popsugar-assets.com/files/thumbor/nfh5JhfMSqFEsZFlrjEEI-XRyGs/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/12/08/097/n/1922729/tmp_8Zj3oj_2bfc078cf8b9dcc9_GettyImages-1132747426.jpg",
+      "description": "Non-slip yoga mat for a comfortable workout experience."
+    },
+    {
+      "id": 10,
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "price": 499.99,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.XphL9pPRB7837GVd3av5AgHaHa&pid=Api&P=0&h=180",
+      "description": "High-resolution digital camera with advanced features."
+    },
+    {
+      "id": 11,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 59.99,
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6350/6350920_sd.jpg",
+      "description": "Brew fresh coffee with this easy-to-use coffee maker."
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker",
+      "category": "Electronics",
+      "price": 79.99,
+      "image": "https://i5.walmartimages.com/asr/bafc05c5-cd55-424c-ba42-dc0b5525f92d_1.bf68e73181f7d9ea39eb0a5a5b2b3c80.jpeg",
+      "description": "Track your daily activities and monitor your health."
+    },
+    {
+      "id": 13,
+      "name": "Desk Lamp",
+      "category": "Home Decor",
+      "price": 34.99,
+      "image": "https://i5.walmartimages.com/asr/23da20b4-a552-43e6-adb9-603b6fcaddf7_1.64a13d1e70581dfe3bc8c4107ea42118.jpeg",
+      "description": "Adjustable LED desk lamp with multiple brightness levels."
+    },
+    {
+      "id": 14,
+      "name": "Smartphone Stand",
+      "category": "Accessories",
+      "price": 14.99,
+      "image": "https://m.media-amazon.com/images/I/51Xw5z6Dz-L._SL1000_.jpg",
+      "description": "Convenient smartphone stand for hands-free viewing."
+    },
+    {
+      "id": 15,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 69.99,
+      "image": "http://ecx.images-amazon.com/images/I/91d8P2-TtlL._SL1500_.jpg",
+      "description": "Durable and spacious backpack for everyday use."
+    },
+    {
+      "id": 16,
+      "name": "Air Purifier",
+      "category": "Home Appliances",
+      "price": 149.99,
+      "image": "https://i.pinimg.com/originals/fc/f5/66/fcf566d7834f4f3f4f71023190f1b292.jpg",
+      "description": "Compact air purifier with HEPA filter for clean air."
+    },
+    {
+      "id": 17,
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "price": 29.99,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.1WjXmPnUARLozXic77pCYwHaHa&pid=Api&P=0&h=180",
+      "description": "Fast wireless charger compatible with most smartphones."
+    },
+    {
+      "id": 18,
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "price": 39.99,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.xSW38U6K2hjR-kMs_QWNiQHaFj&pid=Api&P=0&h=180",
+      "description": "Premium leather wallet with multiple card slots."
+    },
+    {
+      "id": 19,
+      "name": "Electric Toothbrush",
+      "category": "Health & Personal Care",
+      "price": 89.99,
+      "image": "https://www.overeview.com/wp-content/uploads/2020/02/Atmoko-Electric-Toothbrush.jpg",
+      "description": "Rechargeable electric toothbrush with multiple brushing modes."
+    },
+    {
+      "id": 20,
+      "name": "Instant Pot",
+      "category": "Home Appliances",
+      "price": 99.99,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.3NJLjw6hkZKm1Siu6l2hRQHaFj&pid=Api&P=0&h=180",
+      "description": "Versatile multi-cooker for quick and easy meals."
+    }
+  ]
