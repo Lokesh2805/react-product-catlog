@@ -34,3 +34,6 @@ Animations
 Custom Styles
 Use of API Instead of Static JSON
 
+# Screenshots file added in src folder
+
+
