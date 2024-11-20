@@ -36,4 +36,7 @@ Use of API Instead of Static JSON
 
 # Screenshots file added in src folder
 
+# Deployed Link
+URL -> https://prodify-catlog.netlify.app/
+
 
